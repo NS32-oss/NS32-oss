@@ -3,8 +3,9 @@
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <a href="https://ibb.co/Jw8wnrtx">
-  <img align="right" src="https://i.ibb.co/C343BV8J/gif.gif" alt="gif" border="0">
+  <img align="right" src="https://i.ibb.co/C343BV8J/gif.gif" alt="gif" border="0" width="300">
 </a>
+
 
 
 
