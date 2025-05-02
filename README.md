@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **namansurana32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PWHDg-LRaOkCG4-i22S3JJ4p35OFAemW/view?usp=drive_link](https://drive.google.com/file/d/1PWHDg-LRaOkCG4-i22S3JJ4p35OFAemW/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1PWHDg-LRaOkCG4-i22S3JJ4p35OFAemW/view?usp=drive_link](https://drive.google.com/file/d/1PWHDg-LRaOkCG4-i22S3JJ4p35OFAemW/view?usp=drive_link)](https://drive.google.com/file/d/1gtm9syhD3gUcP9FDm5tFnSegtT3Z1VXr/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
